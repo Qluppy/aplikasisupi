@@ -1,3 +1,4 @@
 <?php
-    echo "Petama"
+    echo "Petama";
+    echo "Kedua";
 ?>
